@@ -1,0 +1,9 @@
+PASO 1 - creamos la BBDD que esta en la carpeta BD (Se a utilizado XAMPP, que implementa MySQL y Apache) 
+PASO 2 - tendremos diferentes roles admin: user- Sandra pass-1234 
+				Y usuario: user- Alex	pass-1234
+
+PASO 3- admin visualiza listado de usuarios y el usuario solo puede ver el contenido genérico.
+
+
+
+/*He utilizado MySQL, PHP y Bootstrap, es un ejercicio básico que yo quise aumentarlo de forma estética haciendo pruebas de bootstrap*/
