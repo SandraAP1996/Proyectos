@@ -1,0 +1,6 @@
+PASO 1 - Arrancamos Apache
+PASO 2 - Iniciamos index.html
+
+
+
+/*En este caso se ha utilizado Phaser, para pruebas y generar un juego básico*/
