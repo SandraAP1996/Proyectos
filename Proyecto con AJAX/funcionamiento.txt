@@ -1,0 +1,8 @@
+PASO 1 - creamos la BBDD en la que se llama registro.sql
+PASO 2 - inicializarlo en la raiz del servidor APACHE 
+PASO 3 - Es una comprobación de si existe el user o mail en la BBDD
+
+
+
+
+/*He utilizado AJAX, JavaScript, PHP y CSS*/
